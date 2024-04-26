@@ -1,4 +1,47 @@
-credits by Ayan Choudhury 
-
-
-#All text remove and send this you bot cookie now
+[
+    {
+        "key": "datr",
+        "value": "vKArZhsT3lMLZdtIptXUtfeY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-26T18:29:29.613Z",
+        "lastAccessed": "2024-04-26T18:29:29.614Z"
+    },
+    {
+        "key": "sb",
+        "value": "vKArZnY1DM3AWaX4TS3FX2m1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-26T18:29:29.614Z",
+        "lastAccessed": "2024-04-26T18:29:29.614Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-26T18:29:29.614Z",
+        "lastAccessed": "2024-04-26T18:29:29.614Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x692",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-26T18:29:29.614Z",
+        "lastAccessed": "2024-04-26T18:29:29.614Z"
+    },
+    {
+        "key": "fr",
+        "value": "0LXDlALw1ennLN1Io..BmK6C8..AAA.0.0.BmK_KK.AWUa2Rhq-fk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-26T18:29:29.614Z",
+        "lastAccessed": "2024-04-26T18:29:29.614Z"
+    }
+]
